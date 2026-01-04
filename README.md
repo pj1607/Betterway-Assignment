@@ -3,6 +3,7 @@
 Hello! I’m **Pranjal**, a passionate web developer and React enthusiast. I love building **clean, maintainable UI applications** with a strong focus on **state management, component design, and user experience**.
 
 This project showcases a **mini e-commerce frontend** with features like product listing, cart management, filtering, sorting, and a fully responsive design.
+[Live Preview](https://betterway-assignment.vercel.app)
 
 **Other Projects:**
 
