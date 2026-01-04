@@ -7,11 +7,11 @@ This project showcases a **mini e-commerce frontend** with features like product
 
 **Other Projects:**
 
-*   **Gym Fee Tracker** – [GitHub](https://github.com/pj1607/gym-fee-tracker-vite)
+*   **Gym Fee Tracker** - [GitHub](https://github.com/pj1607/gym-fee-tracker-vite)
     
-*   **Nirmaan Hetu** – [GitHub](https://github.com/pj1607/Nirmaan-Hetu)
+*   **Nirmaan Hetu** - [GitHub](https://github.com/pj1607/Nirmaan-Hetu)
     
-*   **BeSpicy** – [GitHub](https://github.com/pj1607/BeSpicy)
+*   **BeSpicy** - [GitHub](https://github.com/pj1607/BeSpicy)
 
 🛒 Mini E-Commerce Product & Cart
 ---------------------------------
@@ -51,7 +51,7 @@ Build a small e-commerce UI using React to demonstrate understanding of:
         
     *   Filter by category
         
-    *   Sort by price (Low → High, High → Low)
+    *   Sort by price (Low -> High, High -> Low)
         
     *   Clear all filters
         
