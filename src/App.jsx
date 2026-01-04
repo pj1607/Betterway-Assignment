@@ -24,20 +24,19 @@ function App() {
     totalPrice,
   } = useCart();
 
-  // Ref to cart container
+ 
   const cartRef = useRef(null);
 
-  // Wrapped addToCart function to scroll + highlight cart
+
 const handleAddToCart = (product) => {
   addToCart(product);
 
-  // Wait for cart to render
   setTimeout(() => {
     window.scrollTo({
       top: document.documentElement.scrollHeight,
       behavior: "smooth",
     });
-  }, 100); // 100ms is enough for React to render the updated cart
+  }, 100);
 };
 
   if (loading) return <p>Loading...</p>;
@@ -55,10 +54,10 @@ const handleAddToCart = (product) => {
 
       <ProductList
         products={filteredProducts}
-        onAddToCart={handleAddToCart} // use wrapped function
+        onAddToCart={handleAddToCart}
       />
 
-      {/* Cart with ref */}
+  
       <div ref={cartRef}>
         <Cart
           cart={cart}
