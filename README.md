@@ -1,9 +1,16 @@
-About Me
---------------
+### About Me
 
-Hello! My name is **Pranjal**, a passionate web developer and React enthusiast.I enjoy building **clean, maintainable UI applications** with a focus on **state management, component design, and user experience**.
+Hello! I’m **Pranjal**, a passionate web developer and React enthusiast. I love building **clean, maintainable UI applications** with a strong focus on **state management, component design, and user experience**.
 
-This project demonstrates a **mini e-commerce frontend** with features like product listing, cart management, filtering, sorting, and responsive UI.
+This project showcases a **mini e-commerce frontend** with features like product listing, cart management, filtering, sorting, and a fully responsive design.
+
+**Other Projects:**
+
+*   **Gym Fee Tracker** – [GitHub](https://github.com/pj1607/gym-fee-tracker-vite)
+    
+*   **Nirmaan Hetu** – [GitHub](https://github.com/pj1607/Nirmaan-Hetu)
+    
+*   **BeSpicy** – [GitHub](https://github.com/pj1607/BeSpicy)
 
 🛒 Mini E-Commerce Product & Cart
 ---------------------------------
