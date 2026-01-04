@@ -1,7 +1,7 @@
 About Me
 --------------
 
-Hello! My name is **Pranjal Maharaniya**, a passionate web developer and React enthusiast.I enjoy building **clean, maintainable UI applications** with a focus on **state management, component design, and user experience**.
+Hello! My name is **Pranjal **, a passionate web developer and React enthusiast.I enjoy building **clean, maintainable UI applications** with a focus on **state management, component design, and user experience**.
 
 This project demonstrates a **mini e-commerce frontend** with features like product listing, cart management, filtering, sorting, and responsive UI.
 
