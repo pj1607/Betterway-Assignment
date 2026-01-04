@@ -55,14 +55,6 @@ Build a small e-commerce UI using React to demonstrate understanding of:
         
     *   Clear all filters
         
-*   **UI/UX Enhancements:**
-    
-    *   Dark theme with accent color (#f43f5e) and subtle hover effects
-        
-    *   Clean buttons and interactive cart
-        
-    *   Smooth scroll + cart highlight when adding items
-        
 
 **Technical Constraints Followed:**
 
@@ -101,7 +93,5 @@ Build a small e-commerce UI using React to demonstrate understanding of:
 *   Cart updates reflect **immediately** without unnecessary re-renders
     
 *   Filters, search, and sorting **work together** seamlessly
-    
-*   Focused on **fast, human-like UI and UX**
     
 *   Code is modular, maintainable, and ready for further extension
