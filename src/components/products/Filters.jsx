@@ -36,8 +36,8 @@ function Filters({
         }
       >
         <option value="">Sort by Price</option>
-        <option value="low">Low → High</option>
-        <option value="high">High → Low</option>
+        <option value="low">Low -> High</option>
+        <option value="high">High -> Low</option>
       </select>
 
       <button onClick={clearFilters}>
